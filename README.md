@@ -4,7 +4,7 @@
 📫 Reach me: [LinkedIn](https://linkedin.com/in/...)
 
 ## 📂 Projects
-- [git-exercise-1](https://github.com/mayyasobeidat/Masterpiece-Sight)
+- [Sight](https://github.com/mayyasobeidat/Masterpiece-Sight)
 <!--
 **mayyasobeidat/mayyasobeidat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
