@@ -1,6 +1,7 @@
 ## Hi there, I'm Mayyas 👋
 
 🌍 Based in Madrid
+
 📫 Reach me: [LinkedIn](https://linkedin.com/in/...)
 
 ## 📂 Projects
