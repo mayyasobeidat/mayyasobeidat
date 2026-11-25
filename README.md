@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Mayyas 👋
 
+🌍 Based in Madrid
+📫 Reach me: [LinkedIn](https://linkedin.com/in/...)
+
+## 📂 Projects
+- [git-exercise-1](https://github.com/mayyasobeidat/Masterpiece-Sight)
 <!--
 **mayyasobeidat/mayyasobeidat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
